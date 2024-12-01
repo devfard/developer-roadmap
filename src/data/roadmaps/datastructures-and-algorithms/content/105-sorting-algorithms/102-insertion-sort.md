@@ -4,3 +4,5 @@ Insertion sort is a simple sorting algorithm that builds the final sorted array 
 
 - [@article@Insertion Sort - W3Schools](https://www.w3schools.com/dsa/dsa_algo_insertionsort.php)
 - [@article@Insertion Sort Visualization](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/visualize/)
+- [@video@Insertion Sort in 3 minutes](https://youtu.be/JU767SDMDvA?si=IRV7XgUBFZ6XzCgW)
+
